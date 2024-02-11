@@ -1,0 +1,7 @@
+[package]
+name = "awesome_calendar"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["@quilde"]
+license = "GNU General Public License"
+description = "an awesome analog calendar"
