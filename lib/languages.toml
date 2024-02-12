@@ -1,0 +1,29 @@
+[de]
+weekdays = ["MO", "DI", "MI", "DO", "FR", "SA", "SO"]
+months = ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"]
+title = "Stundenplan"
+from = "von"
+to = "bis"
+of = "von"
+alternatives = "Alternativen"
+description = "Beschreibung"
+
+[en]
+weekdays = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+title = "Timetable"
+from = "from"
+to = "to"
+of = "of"
+alternatives = "Alternatives"
+description = "Description"
+
+[it]
+weekdays = ["Lun", "Mar", "Mer", "Gio", "Ven"]
+months = ["Januar", "Februar", "März"]
+title = "Orario"
+from = "da"
+to = "a"
+of = "di"
+alternatives = "Alternative"
+description = "Descrizione"
