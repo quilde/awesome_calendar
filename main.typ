@@ -4,20 +4,34 @@
 #set text(font: "Recursive Mn Csl St")
 
 
-= Week 1
 
 #calendar_week(
-  07,
+  14,
   language: "de",
 )
 #calendar_week(
-  08,
+  15,
+  language: "de",
+)
+#calendar_week(
+  16,
+  language: "de",
+)
+#calendar_week(
+  17,
   language: "de",
 )
 #calendar_month(
-  "Februar",
+  "April",
+  0,
 )
+#calendar_month(
+  "Mai",
+  2,
+)
+
+/*
 #calendar_year(
   "2024",
   language: "en",
-)
+)*/
